@@ -1,0 +1,8 @@
+{
+  "name": "my-places",
+  "app_id": "2dc66cbd",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
